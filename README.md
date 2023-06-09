@@ -1,3 +1,5 @@
+![image](https://github.com/HarshitaSingh828/TICKET_APP/assets/68939473/28bd3ba9-4ea8-40c0-9110-b43ec8588f39)
+
 This application allows users to create, view, filter, edit and
 delete tickets based on their requirements. The ticket data is
 stored in the browser's local storage, meaning that tickets
